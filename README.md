@@ -1,2 +1,2 @@
 # ai-work
-ai工作
+- 浏览器 Brave Search - API
